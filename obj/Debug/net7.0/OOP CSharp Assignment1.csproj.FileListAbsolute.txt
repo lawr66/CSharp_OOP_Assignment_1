@@ -1,0 +1,15 @@
+C:\Users\Tibi\Desktop\OOP CSharp Assignment1\bin\Debug\net7.0\OOP CSharp Assignment1.exe
+C:\Users\Tibi\Desktop\OOP CSharp Assignment1\bin\Debug\net7.0\OOP CSharp Assignment1.deps.json
+C:\Users\Tibi\Desktop\OOP CSharp Assignment1\bin\Debug\net7.0\OOP CSharp Assignment1.runtimeconfig.json
+C:\Users\Tibi\Desktop\OOP CSharp Assignment1\bin\Debug\net7.0\OOP CSharp Assignment1.dll
+C:\Users\Tibi\Desktop\OOP CSharp Assignment1\bin\Debug\net7.0\OOP CSharp Assignment1.pdb
+C:\Users\Tibi\Desktop\OOP CSharp Assignment1\obj\Debug\net7.0\OOP CSharp Assignment1.csproj.AssemblyReference.cache
+C:\Users\Tibi\Desktop\OOP CSharp Assignment1\obj\Debug\net7.0\OOP CSharp Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tibi\Desktop\OOP CSharp Assignment1\obj\Debug\net7.0\OOP CSharp Assignment1.AssemblyInfoInputs.cache
+C:\Users\Tibi\Desktop\OOP CSharp Assignment1\obj\Debug\net7.0\OOP CSharp Assignment1.AssemblyInfo.cs
+C:\Users\Tibi\Desktop\OOP CSharp Assignment1\obj\Debug\net7.0\OOP CSharp Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Tibi\Desktop\OOP CSharp Assignment1\obj\Debug\net7.0\OOP CSharp Assignment1.dll
+C:\Users\Tibi\Desktop\OOP CSharp Assignment1\obj\Debug\net7.0\refint\OOP CSharp Assignment1.dll
+C:\Users\Tibi\Desktop\OOP CSharp Assignment1\obj\Debug\net7.0\OOP CSharp Assignment1.pdb
+C:\Users\Tibi\Desktop\OOP CSharp Assignment1\obj\Debug\net7.0\OOP CSharp Assignment1.genruntimeconfig.cache
+C:\Users\Tibi\Desktop\OOP CSharp Assignment1\obj\Debug\net7.0\ref\OOP CSharp Assignment1.dll
