@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace OOP_CSharp_Assignment1
 {
     class Program
@@ -39,7 +41,7 @@ namespace OOP_CSharp_Assignment1
             Console.WriteLine("Decelarating.");
             plane1.Decelerate();      //speed decreases by 10 as declared in the parent class
             plane1.DisplayInfo();
-            plane1.Fly();              //veryifing the Fly() method from the Plane class
+         //   plane1.Fly();              //veryifing the Fly() method from the Plane class
             Console.WriteLine("Number of wings for the plane: {0}", plane1.NumWings);
             Helicopter helicopter1 = new Helicopter("Apache","AH-64A",2022,186,4);
             helicopter1.DisplayInfo();
@@ -49,8 +51,13 @@ namespace OOP_CSharp_Assignment1
             Console.WriteLine("Decelarating.");
             helicopter1.Decelerate();      //speed decreases by 15 as declared in the child class
             helicopter1.DisplayInfo();
-            helicopter1.Fly();              //veryifing the Fly() method from the Helicopter class
+           // helicopter1.Fly();              //veryifing the Fly() method from the Helicopter class
             Console.WriteLine("Number of rotors for the helicopter: {0}", helicopter1.NumRotors);
+            List<Flyable> flyables = new List<Flyable>{plane1,helicopter1};
+            foreach(var flyable in flyables)
+            {
+                flyable.Fly();
+            }
         }
     }
 }
